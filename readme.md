@@ -5,7 +5,7 @@ make server         make client
 
 2. The 3 types of accounts are stored in 3 different files and for each the primary key is their username, hence make sure to enter unique usernames for the same account type
 
-3. There are 1 admin:
+3. There are 2 admins:
 Username - Password
 (i) Madhav - 123
 (ii) Sagar - 123
